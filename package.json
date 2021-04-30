@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@material-ui/core": "4.11.4",
-    "@material-ui/data-grid": "4.0.0-alpha.26",
+    "@material-ui/data-grid": "4.0.0-alpha.27",
     "@material-ui/icons": "4.11.2",
     "@material-ui/styles": "4.11.4",
     "@testing-library/jest-dom": "5.12.0",
