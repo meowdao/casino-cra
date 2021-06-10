@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@material-ui/core": "4.11.4",
-    "@material-ui/data-grid": "4.0.0-alpha.30",
+    "@material-ui/data-grid": "4.0.0-alpha.31",
     "@material-ui/icons": "4.11.2",
     "@material-ui/styles": "4.11.4",
     "@testing-library/jest-dom": "5.13.0",
@@ -24,7 +24,7 @@
     "react-scripts": "4.0.3"
   },
   "devDependencies": {
-    "@types/react": "17.0.10",
+    "@types/react": "17.0.11",
     "@types/react-dom": "17.0.7",
     "husky": "4.3.8",
     "lint-staged": "11.0.0",
