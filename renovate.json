@@ -1,3 +1,3 @@
 {
-  "extends": ["github>paktolus/renovate-config"]
+  "extends": ["github>gemunionstudio/renovate-config"]
 }
