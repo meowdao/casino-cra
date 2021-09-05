@@ -24,7 +24,7 @@
     "react-scripts": "4.0.3"
   },
   "devDependencies": {
-    "@types/react": "17.0.19",
+    "@types/react": "17.0.20",
     "@types/react-dom": "17.0.9",
     "husky": "4.3.8",
     "lint-staged": "11.1.2",
