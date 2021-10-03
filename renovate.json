@@ -1,4 +1,4 @@
 {
-  "extends": ["github>gemunion/renovate-config"],
+  "extends": ["github>meowdao/renovate-config"],
   "baseBranches": ["main"]
 }
