@@ -1,4 +1,4 @@
 {
   "extends": ["github>meowdao/renovate-config"],
-  "baseBranches": ["main"]
+  "baseBranches": ["master"]
 }
